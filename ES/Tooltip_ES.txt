@@ -1,0 +1,8 @@
+Tooltip_ES = 
+{
+	Tooltip_Sourdough = "Está listo Tengo que abrirlo",
+	Tooltip_OpenSourdough = "Debería dejarlo fermentar",
+	Tooltip_Sourmilk = "Debería colarlo",
+	Tooltip_PotVinegar = "Debería dejarlo fermentar",
+	Tooltip_Bottlingvinegar = "Debería embotellarlo",
+}

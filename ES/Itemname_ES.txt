@@ -1,0 +1,23 @@
+ItemName_ES = 
+{
+	ItemName_Base.Sourdough = "Masa Madre",
+	ItemName_Base.OpenSourdough = "Masa Madre Abierta",
+	ItemName_Base.SourdoughFeeded = "Masa Madre Alimentada",
+	ItemName_Base.SealedJar = "Frasco con Tapa",
+	ItemName_Base.TomatoSauce = "Salsa de Tomate",
+	ItemName_Base.CheeseStart = "Inicio para Queso",
+	ItemName_Base.ForgedCheeseStart = "Inicio para Queso",
+	ItemName_Base.Sourmilk = "Leche Cortada",
+	ItemName_Base.ForgedSourmilk = "Leche Cortada",
+	ItemName_Base.PotVinegar = "Inicio de Vinagre",
+	ItemName_Base.FermentedVinegar = "Vinagre Fermentado",
+	ItemName_Base.ForgedPotVinegar = "Inicio de Vinagre",
+	ItemName_Base.ForgedFermentedVinegar = "Vinagre Fermentado",
+	ItemName_Base.FishOilStart = "Inicio de Aceite de Pescado",
+	ItemName_Base.ForgedFishOilStart = "Inicio de Aceite de Pescado",
+	ItemName_Base.FishOilPot = "Olla con Aceite de Pescado",
+	ItemName_Base.ForgedFishOilPot = "Olla con Aceite de Pescado",
+	ItemName_Base.FishOil = "Aceite de Pescado",
+	ItemName_Base.FreshCheese = "Queso Fresco",
+	ItemName_Base.FreshCheeseSlice = "Rodaja de Queso Fresco",
+}
