@@ -1,0 +1,23 @@
+ItemName_RU = 
+{
+	ItemName_Base.Sourdough = "Банка закваски",
+	ItemName_Base.OpenSourdough = "Банка закваски (открытая)",
+	ItemName_Base.SourdoughFeeded = "Банка подкормленной закваски",
+	ItemName_Base.SealedJar = "Банка с крышкой",
+	ItemName_Base.TomatoSauce = "Томатный соус",
+	ItemName_Base.CheeseStart = "Кастрюля с закваской на сыре",
+	ItemName_Base.ForgedCheeseStart = "Кованая кастрюля с закваской на сыре",
+	ItemName_Base.Sourmilk = "Кастрюля с простоквашей",
+	ItemName_Base.ForgedSourmilk = "Кованая кастрюля с простоквашей",
+	ItemName_Base.PotVinegar = "Кастрюля с закваской на уксусе",
+	ItemName_Base.FermentedVinegar = "Кастрюля с ферментированным уксус",
+	ItemName_Base.ForgedPotVinegar = "Кованая кастрюля с закваской на уксусе",
+	ItemName_Base.ForgedFermentedVinegar = "Кованая кастрюля с ферментированным уксусом",
+	ItemName_Base.FishOilStart = "Кастрюля с закваской на рыбьем жире",
+	ItemName_Base.ForgedFishOilStart = "Кованая кастрюля с закваской на рыбьем жире",
+	ItemName_Base.FishOilPot = "Кастрюля с рыбьем жиром",
+	ItemName_Base.ForgedFishOilPot = "Кованая кастрюля с рыбьем жиром",
+	ItemName_Base.FishOil = "Рыбий жир",
+	ItemName_Base.FreshCheese = "Головка домашнего сыра",
+	ItemName_Base.FreshCheeseSlice = "Домашний сыр",
+}
