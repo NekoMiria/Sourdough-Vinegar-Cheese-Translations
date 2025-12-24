@@ -9,7 +9,7 @@ Recipes_RU =
 	Recipe_PrepareVinegar(Bananas) = "Приготовить уксус — Банановый",
 	Recipe_PrepareVinegar(Pears) = "Приготовить уксус — Грушевый",
 	Recipe_PrepareVinegar(Cherries) = "Приготовить уксус — Вишнёвый",
-	Recipe_PrepareCheeseStart = "Приготовить сырную закваску",
+	Recipe_PrepareCheeseStart = "Приготовить закваску на сыре",
 	Recipe_StrainSourmilk = "Процедить простаквашу",
 	Recipe_PrepareVinegar(Blackberries) = "Приготовить уксус — Ежевичный",
 	Recipe_PrepareVinegar(Rose Hips) = "Приготовить уксус — Шиповниковый",
@@ -23,4 +23,7 @@ Recipes_RU =
 	Recipe_MakeSourdoughCakeBatter = "Приготовить торт на закваске",
 	Recipe_MakeSourdoughSugarCookiesDough = "Подготовить закваску для сладкого печенья",
 	Recipe_RecoverJarandLid = "Открыть банку",
+	Recipe_PrepareFishOilStart = "Приготовить закваску на рыбьем жире",
+	Recipe_BottlingFishOil = "Разлить рыбий жир",
+	Recipe_SliceFreshCheese = "Нарезать домашний сыр",
 }
